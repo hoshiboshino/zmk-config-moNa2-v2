@@ -87,7 +87,7 @@
 
         ASTARTE {
             bindings = <
-&kp Q      &kp P     &kp U     &kp Y      &kp COMMA                      &kp J      &kp D  &kp H  &kp G  &kp W
+&lt 5 Q    &kp P     &kp U     &kp Y      &kp COMMA                      &kp J      &kp D  &kp H  &kp G  &kp W
 &kp I      &kp O     &kp E     &kp A      &kp DOT              &trans    &kp K      &kp T  &kp N  &kp S  &kp R
 &kp Z      &kp X     &kp SEMI  &kp C      &kp FSLH   &trans    &trans    &kp M      &kp L  &kp F  &kp B  &kp V
 &kp LCTRL  &kp LGUI  &kp LALT  &kp SPACE  &kp SPACE  &trans    &kp BSPC  &kp ENTER                       &kp RCTRL
